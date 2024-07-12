@@ -1,0 +1,6 @@
+pandas
+pandas_bokeh
+hvplot
+geoviews
+bokeh
+requests
